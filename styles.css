@@ -13,3 +13,7 @@
 #main-container div:hover {
     background-color: pink;
 }
+
+.filled {
+    background-color: rgb(0, 0, 0);
+}
